@@ -1,0 +1,22 @@
+{
+  "name": "node-console-assert",
+  "version": "0.0.1",
+  "description": "console.assert polyfill for node environment, make it work like browser's console.assert",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ezhmd@github.com/ezhmd/node-console-assert.git"
+  },
+  "author": "Ezzat Chamudi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezhmd/node-console-assert/issues"
+  },
+  "homepage": "https://github.com/ezhmd/node-console-assert#readme",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
