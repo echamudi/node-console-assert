@@ -26,10 +26,13 @@ Check more examples in [test.js](https://github.com/ezhmd/node-console-assert/bl
 
 | Branch | Status |
 | - | - |
-| master | [![Build Status](https://travis-ci.org/ezhmd/node-console-assert.svg?branch=master)](https://travis-ci.org/ezhmd/node-console-assert) |
+| master | [![Build Status](https://travis-ci.org/ezhmd/node-console-assert.svg?branch=master)](https://travis-ci.org/ezhmd/node-console-assert) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fezhmd%2Fnode-console-assert.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fezhmd%2Fnode-console-assert?ref=badge_shield)
+|
 
 ## License
 
 2019 © [Ezzat Chamudi](https://github.com/ezhmd)
 
 The code is released under [MIT License](https://opensource.org/licenses/MIT)
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fezhmd%2Fnode-console-assert.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fezhmd%2Fnode-console-assert?ref=badge_large)
