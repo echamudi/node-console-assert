@@ -20,16 +20,16 @@ If you don't want to modify the global console.assert, you can assign to a new c
 const consoleAssert = require('node-console-assert');
 ```
 
-Check more examples in [test.js](https://github.com/ezhmd/node-console-assert/blob/master/test.js) file.
+Check more examples in [test.js](https://github.com/echamudi/node-console-assert/blob/master/test.js) file.
 
 ## Development
 
 | Branch | Status |
 | - | - |
-| master | [![Build Status](https://travis-ci.org/ezhmd/node-console-assert.svg?branch=master)](https://travis-ci.org/ezhmd/node-console-assert) |
+| master | [![Build Status](https://travis-ci.org/echamudi/node-console-assert.svg?branch=master)](https://travis-ci.org/echamudi/node-console-assert) |
 
 ## License
 
-2019 © [Ezzat Chamudi](https://github.com/ezhmd)
+2019 © [Ezzat Chamudi](https://github.com/echamudi)
 
 The code is released under [MIT License](https://opensource.org/licenses/MIT)

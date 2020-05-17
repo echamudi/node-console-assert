@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://ezhmd@github.com/ezhmd/node-console-assert.git"
+    "url": "git+https://echamudi@github.com/echamudi/node-console-assert.git"
   },
   "author": "Ezzat Chamudi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ezhmd/node-console-assert/issues"
+    "url": "https://github.com/echamudi/node-console-assert/issues"
   },
-  "homepage": "https://github.com/ezhmd/node-console-assert#readme",
+  "homepage": "https://github.com/echamudi/node-console-assert#readme",
   "devDependencies": {
     "mocha": "^6.2.2"
   }
